@@ -1,0 +1,16 @@
+slope curve cam1
+technic pin cam1
+wedge cam1
+technic brick cam1
+tile round cam1
+wedge plate cam1
+bar cam1
+tile cam1
+plates cam1
+brick cam1
+container cam1
+brick modified cam1
+technic axle cam1
+fence cam1
+bracket cam1
+slope cam1
